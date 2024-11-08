@@ -26,13 +26,13 @@ Hi there! I'm Yasaman Hemmati, a passionate individual who loves AI applications
 
 ## Favorite Hobby ⚡
 
-When I'm not coding or working, you can find me watching movies. Whether it's better to have outdoor activities, it's my way of relaxing and unwinding.
+When I'm not coding or working, you can find me listening to classic music. Whether it's better to have outdoor activities, it's my way of relaxing and unwinding.
 
 ## Let's Connect 👯
 
 I'm always open to new connections and collaborations! Feel free to reach out if you want to chat about competitions, collaborate on a project, or say hi.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](www.linkedin.com/in/ysmn-hmmti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/yasaman-hemmati/)
 
 I'm looking forward to talking with you!
 
